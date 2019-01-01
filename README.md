@@ -21,3 +21,7 @@ Solid: taking back the Web through decentralization
 App development as we know it will radically change
 
 https://fosdem.org/2019/schedule/event/solid_web_decentralization/
+
+13 - 13.50
+
+https://fosdem.org/2019/schedule/event/duckduckgo_open_source/
